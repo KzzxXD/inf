@@ -1,3 +1,7 @@
+body {
+    background: lightgrey;
+}
+
 .mr{
     margin-top: 1em;
 }
@@ -6,4 +10,14 @@
     border-radius: 4px;
     background-color: #66339985;
     text-align: center;
+}
+
+.card-title {
+    color: rgb(55, 189, 13);
+    text-align: left;
+    background: none;
+}
+
+.test-ready__oleg {
+    color: violet;
 }
