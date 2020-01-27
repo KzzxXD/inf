@@ -21,3 +21,6 @@ body {
 .test-ready__oleg {
     color: violet;
 }
+.test-ready__oleg:first-letter{
+    text-transform: uppercase;
+}
