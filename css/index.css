@@ -1,0 +1,9 @@
+.mr{
+    margin-top: 1em;
+}
+.card-title{
+    color: honeydew;
+    border-radius: 4px;
+    background-color: #66339985;
+    text-align: center;
+}
