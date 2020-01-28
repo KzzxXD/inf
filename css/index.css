@@ -24,3 +24,6 @@ body {
 .test-ready__oleg:first-letter{
     text-transform: uppercase;
 }
+.text-purple{
+    color: rgb(74, 13, 189);
+}
