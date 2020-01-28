@@ -24,3 +24,17 @@ body {
 .test-ready__oleg:first-letter{
     text-transform: uppercase;
 }
+
+.warunkowe,
+.niezaleznost {
+    max-width: 155px;
+}
+
+.calk {
+    max-width: 210px;
+}
+
+.calk2,
+.calk3 {
+    max-width: 260px;
+}
