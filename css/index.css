@@ -30,13 +30,21 @@ body {
     max-width: 155px;
 }
 
-.calk {
+.calk,
+.zmienna-losowa {
     max-width: 210px;
 }
 
 .calk2,
-.calk3 {
+.calk3,
+.losowa-skokowa,
+.losowa-ciagla,
+.wlasnist {
     max-width: 260px;
+}
+
+.wlasnist-duza {
+    max-width: 300px;
 }
 
 .text-purple{

@@ -319,7 +319,7 @@
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title text-purple">
                         - położenie (średnia, wartość przeciętna, wartość oczekiwana, mediana, kwantyle); <br />
                         - zmienności (rozproszenia) (odchylenie przeciętne, współczynnik zmienności, współczynnik nierówności);<br />
                         - asymetrii (współczynnik skończoności);<br />
@@ -333,7 +333,7 @@
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title text-purple">
                         Niech X będzie zmienną losową typu dyskretnego wartością oczekiwaną nazywa
                         się sumę iloczynu wartości tej zmiennej losowej oraz prawdopodobieństw z jakimi są one przyjmowane.
                         Własności: <br />
@@ -345,34 +345,34 @@
                         - E(XY)=EX*EY gdy X i Y niezależne
                     </h5>
                     <hr>
-                    <p class="card-text">Wartość oczekiwana i jej wartości</p>
+                    <p class="card-text"><span class="test-ready__oleg">Wartość</span> oczekiwana i jej wartości</p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title text-purple">
                         Funkcja gęstości prawdopodobieństwa zmiennej losowej typu ciągłego nazywamy funkcje f(x) określoną na zbiorze liczb rzeczywistych taką że 
                             а) f(x)>= 0 <br />
                             b) dla dowolnych a < b zachodzi <br />
                         calka a b f(x)dx = P(a<=X<=b)
                     </h5>
                     <hr>
-                    <p class="card-text">Funkcja gęstości</p>
+                    <p class="card-text"><span class="test-ready__oleg">Funkcja</span> gęstości</p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">
+                    <h5 class="card-title text-purple">
                         Niech B będzie zdarzeniem takim że P(B)>0.<br />
                         Prawdopodobieństwo warunkowe zdarzenia a przy warunku b nazywamy liczbę
                         <img class="warunkowe" src="images/warunkowe.png" alt="">
                     </h5>
                     <hr>
-                    <p class="card-text">Prawdopodobieństwo warunkowe</p>
+                    <p class="card-text"><span class="test-ready__oleg">Prawdopodobieństwo</span> warunkowe</p>
                 </div>
             </div>
         </div>
@@ -382,20 +382,70 @@
                     Jeżeli <br />
                     <img class="calk3" src="images/calk3.png" alt="">
                     <img class="calk2" src="images/calk2.png" alt="">
-                    <h5 class="card-title">to dla każdego zdarzenia A</h5>
+                    <h5 class="card-title text-purple">to dla każdego zdarzenia A</h5>
                     <img class="calk" src="images/calk.png" alt="">
                     <hr>
-                    <p class="card-text">Twierdzenie o prawdopodobieństwie całkowitym</p>
+                    <p class="card-text"><span class="test-ready__oleg">Twierdzenie</span> o prawdopodobieństwie całkowitym</p>
                 </div>
             </div>
         </div>
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
-                    <h5 class="card-title">zdarzenie a i b nazywamy niezależnymi jeżeli</h5>
+                    <h5 class="card-title text-purple">
+                        Zmienną losową nazywamy dowolną funkcję X określoną na przestrzeni zdarzeń elementarnych
+                        Ω, o wartościach ze zbioru R, liczb rzeczywistych gdzie dla dowolnej, ustalonej liczby
+                        rzeczywistej <strong>a</strong> zbiór zdarzeń elementarnych ω, dla których spewniona jest nierówność
+                        jest X(ω) <= a, zdarzeniem czyli
+                        <img class="zmienna-losowa" src="images/zmienna-losowa.png">
+                    </h5>
+                    <hr>
+                    <p class="card-text"><span class="test-ready__oleg">Definicja</span> zmiennej losowej</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card mr" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title text-purple">
+                        Zmienna losowa X <strong>jest typu skokowego,</strong> jeśli istnieje skończony, albo przeliczalny
+                        zbiór Wx={x1,x2,...,xn,...} jej wartości taki, że 
+                        <img class="losowa-skokowa" src="images/losowa-skokowa.png" alt="">
+                        dystrybuanta zmienej losowej typu skokowego:
+                        <img class="losowa-skokowa" src="images/losowa-skokowa-dystr.png" alt="">
+                    </h5>
+                    <hr>
+                    <p class="card-text"><span class="test-ready__oleg">Zmienna losowa</span> typu skokowego i jej dystrybuanta</p>
+                </div>
+            </div>
+        </div>
+         <div class="col">
+            <div class="card mr" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title text-purple">
+                        Zmienna losowa X przyjmująca wszystkie wartości z pewnego przedziału, dla który istnieje
+                        nieujemna funkcja f, taka że dystrybuanty zmiennej losowej X można przedstawić w postaci:<br />
+                        <img class="losowa-ciagla" src="images/losowa-ciagla.png" alt="">
+                        nazywamy zmienną losową absolutnie ciągłą a funkcję f jej gęstością<br />
+                        Własności:
+                        <img class="wlasnist" src="images/w1.png" alt="">
+                        <img class="wlasnist" src="images/w2.png" alt="">
+                        <img class="wlasnist" src="images/w3.png" alt="">
+                        <img class="wlasnist-duza" src="images/w4.png" alt="">
+                        <img class="wlasnist" src="images/w5.png" alt="">
+                    </h5>
+                    <hr>
+                    <p class="card-text"><span class="test-ready__oleg">Zmienna losowa</span> <strong>typu ciągłego</strong> i jej własności</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card mr" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title text-purple">zdarzenie a i b nazywamy niezależnymi jeżeli</h5>
                     <img class="niezaleznost" src="images/niezal.png" alt="">
                     <hr>
-                    <p class="card-text">Niezależność zdarzeń, własności zdarzeń niezależnych</p>
+                    <p class="card-text"><span class="test-ready__oleg">Niezależność</span> zdarzeń, własności zdarzeń niezależnych</p>
                 </div>
             </div>
         </div>
