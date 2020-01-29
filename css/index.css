@@ -31,8 +31,13 @@ body {
 }
 
 .calk,
-.zmienna-losowa {
+.zmienna-losowa,
+.prawo {
     max-width: 210px;
+}
+
+.niesk {
+    max-width: 130px;
 }
 
 .calk2,
@@ -43,8 +48,14 @@ body {
     max-width: 260px;
 }
 
-.wlasnist-duza {
+.wlasnist-duza,
+.dyskretna,
+.ww2 {
     max-width: 300px;
+}
+
+.nizal {
+    max-width: 350px;
 }
 
 .text-purple{
