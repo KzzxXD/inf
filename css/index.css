@@ -24,6 +24,40 @@ body {
 .test-ready__oleg:first-letter{
     text-transform: uppercase;
 }
+
+.warunkowe,
+.niezaleznost {
+    max-width: 155px;
+}
+
+.calk,
+.zmienna-losowa,
+.prawo {
+    max-width: 210px;
+}
+
+.niesk {
+    max-width: 130px;
+}
+
+.calk2,
+.calk3,
+.losowa-skokowa,
+.losowa-ciagla,
+.wlasnist {
+    max-width: 260px;
+}
+
+.wlasnist-duza,
+.dyskretna,
+.ww2 {
+    max-width: 300px;
+}
+
+.nizal {
+    max-width: 350px;
+}
+
 .text-purple{
     color: rgb(74, 13, 189);
 }
