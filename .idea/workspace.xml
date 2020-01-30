@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46a8ceb-6ec9-4416-b457-117586e3db71" name="Default Changelist" comment="ы">
-      <change afterPath="$PROJECT_DIR$/images/Kwantyle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/KwantyleCi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Poissona.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/War.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dwumianowy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dwupunktowy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gamma.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gaussa.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/rówomierny.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wrt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wykładniczy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/conversiontable16to2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +66,7 @@
       <workItem from="1580158357989" duration="654000" />
       <workItem from="1580236010120" duration="1498000" />
       <workItem from="1580237513915" duration="1928000" />
+      <workItem from="1580400610144" duration="10657000" />
     </task>
     <servers />
   </component>
