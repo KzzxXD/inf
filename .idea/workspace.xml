@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46a8ceb-6ec9-4416-b457-117586e3db71" name="Default Changelist" comment="ы">
-      <change afterPath="$PROJECT_DIR$/images/conversiontable16to2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -66,7 +65,7 @@
       <workItem from="1580158357989" duration="654000" />
       <workItem from="1580236010120" duration="1498000" />
       <workItem from="1580237513915" duration="1928000" />
-      <workItem from="1580400610144" duration="10657000" />
+      <workItem from="1580400610144" duration="14762000" />
     </task>
     <servers />
   </component>
@@ -74,6 +73,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="405" y="201" width="546" height="386" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580415960165">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="405" y="201" width="546" height="386" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1366.743@0.25.1366.743" timestamp="1580415960165" />
     <state x="248" y="25" width="860" height="739" key="CommitChangelistDialog2" timestamp="1580377495049">
       <screen x="0" y="25" width="1366" height="743" />
     </state>
