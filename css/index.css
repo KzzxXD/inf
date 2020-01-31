@@ -19,7 +19,8 @@ body {
 }
 
 .test-ready__oleg {
-    color: violet;
+    color: #004abb;
+    font-weight: 900;
 }
 .test-ready__oleg:first-letter{
     text-transform: uppercase;
