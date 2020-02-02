@@ -6,8 +6,15 @@
         : char tablica[5]={'z','i','k','i','t'}
 3. generowanie liczb pseudolosowych: do generowanie liczb losowych służy funkcja rand(). Generacja generuje ona losową
   liczbę całkowitą między 0 i RANDD_MAX (stała zdefiniowana w cstdlib)
-4.
-5.
+4. funkcje - zalety dzielenia programu na podprogramy
+      - dany podprogram można wywołać kilka razy, zmniejszamy liczbę linijek kodu;
+      - program łatwiej zrozumieć 
+    Programowanie proceduralne to dzielenie kodu na programy
+5. Zmienne to obszar w pamięci komputera której możemy przepisywać różne wartości.
+   Deklaracja zmiennej to rezerwacja pamięci dnia zmiennej w pamięci komputera.
+   int a; //deklaracja
+   ing b=7;//inicjalizacja
+   Kompilator nie zeruje zadeklarowanych zmiennych powyżej zadeklarowana zmienna 'a' otrzymana przypadkowo wartość
 6.
 7.
 8.
