@@ -26,3 +26,11 @@
    sqrt() - funkcja oblicza pierwiastek stopnia drugiego. Ppierwszym i jednym argumentem tej funkcji jest liczba z której chcemy policzyć pierwiastek.
    pow() - podnoszenie liczby do dowolnej potęgi funkcja ta przyjmuje dwa argumenty i wracał wynik potęgowania. 
           Pierwszym argumentem jest liczba którą chcemy potęgować drugim natomiast potęga do których chcemy wybraną liczbę w podnieść.
+8. M_PI - stała matematyczna = 3.14159
+9. Aby wygenerować liczbę z zakresu:
+      - naturalną <0,a>
+        x = rand()%(a+1)
+      - całkowitą <a,b>
+        x = a+rand()%(b-a+1)
+      - rzeczywistą <a,b>
+        x = a+((float)rand()/(RANDD_MAX))*(b-a)
