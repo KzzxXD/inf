@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d46a8ceb-6ec9-4416-b457-117586e3db71" name="Default Changelist" comment="ы">
-      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/photo_2020-02-02_18-46-07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +41,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -65,7 +69,8 @@
       <workItem from="1580236010120" duration="1498000" />
       <workItem from="1580237513915" duration="1928000" />
       <workItem from="1580400610144" duration="18811000" />
-      <workItem from="1580455173207" duration="783000" />
+      <workItem from="1580455173207" duration="1459000" />
+      <workItem from="1580644240639" duration="8439000" />
     </task>
     <servers />
   </component>
