@@ -1,0 +1,15 @@
+1. jeżeli rozmiar tablicy będzie ustawiony na stałe bez możliwości jej zmiany utworzona struktura będzie tablicą statyczną
+2. deklaracja i wypełnianie tablicy inicjalizacja:
+      - int tablica[5]={4,5,6,2,3}
+      - lub nawet nie trzeba podawać rozmiaru
+        : int tablica[]={4,5,6,2,3}
+        : char tablica[5]={'z','i','k','i','t'}
+3. generowanie liczb pseudolosowych: do generowanie liczb losowych służy funkcja rand(). Generacja generuje ona losową
+  liczbę całkowitą między 0 i RANDD_MAX (stała zdefiniowana w cstdlib)
+4.
+5.
+6.
+7.
+8.
+9.
+10.
