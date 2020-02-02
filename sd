@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Platforma Krakowskiej Akademii</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/index.css">
-</head>
-<body>
-<div class="container-fluid">
-    <div class="row">
         <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
@@ -29,7 +18,7 @@
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        Stos
+                       Stos
                     </h5>
                     <hr>
                     <p class="card-text"><span class="test-ready__oleg">Struktura danych </span> w której dane dodane jako ostatnie, przetwarzane s jako pierwsze</p>
@@ -142,7 +131,7 @@
                         Rozpoznającą
                     </h5>
                     <hr>
-                    <p class="card-text"><span class="test-ready__oleg">Rozróżnia </span> się trzy typy gramatyk formalnych. Jeżeli dla dowolnego rozpatrzywanego słowa patrafi rozstrzygnąć, czy słowo to jest poprawne czy nie, a w przypadku odpowiedzi pozytywnej potrafi podać wskazówki dotyczące budowy tego słowa, to mamy do czynienia</p>
+                    <p class="card-text"><span class="test-ready__oleg">Rozróżnia </span> się trzy typy gramatyk formalnych. Jeżeli dla dowolnego rozpatrzywanego słowa patrafi rozstrzygnąć, czy słowo to jest poprawne czy nie, a w przypadku odpowiedzi pozytywnej potrafi podać wskazówki dotyczące budowy tego słowa, to mamy do czynienia</p>
                 </div>
             </div>
         </div>
@@ -156,7 +145,7 @@
                         Złożenie
                     </h5>
                     <hr>
-                    <p class="card-text"><span class="test-ready__oleg">Wyróźnia </span> się trzy podstawowe postacie wyrażeń regularnych. Wyrażenie postaci: r = r1r2 to w tym przypadku</p>
+                    <p class="card-text"><span class="test-ready__oleg">Wyróźnia </span> się trzy podstawowe postacie wyrażeń regularnych. Wyrażenie postaci: r = r1r2 to w tym przypadku</p>
                 </div>
             </div>
         </div>
@@ -168,7 +157,7 @@
                         Automat deterministyczny
                     </h5>
                     <hr>
-                    <p class="card-text"><span class="test-ready__oleg">Automat skończony</span>, dla którego pojawienie się na wejściu jakiegokolwiek symbolu powoduje ruch automatu ściśle określoną drogą bez możliwości wyboru to</p>
+                    <p class="card-text"><span class="test-ready__oleg">Automat skończony</span>, dla którego pojawienie się na wejściu jakiegokolwiek symbolu powoduje ruch automatu ściśle określoną drogą bez możliwości wyboru to</p>
                 </div>
             </div>
         </div>
@@ -326,8 +315,8 @@
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        Wszystkie bity przepisujemy z zaprzeczeniem. Uzupełnienie do 1 liczby binarnej jest zawsze negacją bitów tej liczby
-                    </h5>
+                        Wszystkie bity przepisujemy z zaprzeczeniem. Uzupełnienie do 1 liczby binarnej jest zawsze negacją bitów tej liczby
+                      </h5>
                     <hr>
                     <p class="card-text">Uzupełnienie do 1 - U1 <b>SPOSÓB 2</b></p>
                 </div>
@@ -339,8 +328,8 @@
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        Zajmuje się zmiennymi mogącymi przyjmować dwie wartości 0 lub 1
-                    </h5>
+                     Zajmuje się zmiennymi mogącymi przyjmować dwie wartości 0 lub 1
+                     </h5>
                     <hr>
                     <p class="card-text"><span class="test-ready__oleg">Logika</span> binarna</p>
                 </div>
@@ -351,8 +340,8 @@
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        Zawiera instrukcje, które powodują że zmiany następują po każdym zatrzymaniu się
-                    </h5>
+                        Zawiera instrukcje, które powodują że zmiany następują po każdym zatrzymaniu się
+                     </h5>
                     <hr>
                     <p class="card-text"><span class="test-ready__oleg">Diagrama</span> przejść</p>
                 </div>
@@ -366,7 +355,7 @@
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
-                        Która również obrazuje przejścia między stanami maszyny Turinga zawiera wszystkie symbole ze skończonego alfabetu.
+                      Która również obrazuje przejścia między stanami maszyny Turinga zawiera wszystkie symbole ze skończonego alfabetu.
                     </h5>
                     <hr>
                     <p class="card-text"><span class="test-ready__oleg">Tabela</span> stanów</p>
@@ -402,7 +391,7 @@
             </div>
         </div>
 
-        <div class="col">
+           <div class="col">
             <div class="card mr" style="width: 18rem;">
                 <div class="card-body">
                     <h5 class="card-title">
@@ -440,365 +429,9 @@
 
 
 
-
-
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        wyrażenie regularne
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                    <div>
-                        <span class="test-ready__oleg">suma teriomnogosciowa</span> r = r1 + r2
-                    </div>
-                    <div>
-                        <span class="test-ready__oleg">zlozenie</span> r = r1 r2
-                    </div>
-                    <div>
-                        <span class="test-ready__oleg">domkniecie</span> r = r1*
-                    </div>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        jezyka sa to reguly budowy zdan w jezyku lub reguly budowy kostrukcji jezykowych
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">syntaktyka</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        jezyka jest to interpretacja tych regul, zasady stosowania skladniki
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">semantyka</span>
-                    </p>
-                </div>
-
-            </div>
-        </div>
-
-
-
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        Jeżeli dla dowolnego rozpatrzywanego słowa potrafi rozstrzygnąć czy słowo to jest poprawne czy nie, a w przypadku odpowiedzi pozytywnej potrafi podać wskazówki dotyczące budowy tego słowa
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">rozpoznająca</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        Jeżeli potrafi zbudować dowolne słowo poprawne, podając przy tym wskażówki dotyczące jego budowy oraz nie tworzy ani jednego słowa niepoprawnego
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">generacyjna</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        Jeżeli dla dowolnie poprawnie zbudowanego słowa potrafi ona zbudować jego odwzorowania również w postaci słowa poprawnego, określając przy tym wskazówki dotyczące kolejności stosowania odwzorowań
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">przetwarzająca</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        charakteryzuje się tym, że wszystkie produkcje mają postać: u -> w, u ЄV*\{E}, w Є V*
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">gramatyka</span> klasy 0
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        zwana kontekstową nazywa się gramatykę charakteryzującą się tym, że wszystkie produkcje mają postać: uAw -> ubw, u,w ЄV*, A ЄS, b ЄV*\{E}
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">gramatyka</span> klasy 1
-                    </p>
-                </div>
-            </div>
-        </div>
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        zwana gramatyką bezkonteksową, która w układzie reguł P dopuszcza jedynie reguły postaci A -> b, A ЄS, b ЄV*\{E}
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">gramatyka</span> typu 2
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        (regularna) która w układzie reguł P dopuszcza reguły postaci A -> bB albo A -> Bb, A ЄS, BЄ S v {E}, bЄ T*\{E}
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">gramatyka</span> klasy 3
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        To skończony zbiór zmiennych z których każda reprezentuje pewien język
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">Gramatyka</span> bezkontekstowa
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        jest zbiorowiskiem połączonych sieci lub inaczej siecią spajającą mniejsze siecie , w której podstawą komunikacji jest tzw. TCP/IP
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">Internet</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        Freeware – licencja oprogramowania umożliwiająca darmowe rozprowadzanie aplikacji bez ujawnienia kodu źródłowego.
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">Freeware</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        jest jednym z typów licencji Otherware. Oprogramowanie na tej licencji może być dowolnie modyfikowane, kopiowane i dystrybuowane pod warunkiem, że licencjobiorca zapłaci autorowi symboliczną kwotę.
-                    </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">Donationware</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        rodzaj oprogramowania zamkniętego, które jest bezpłatnie rozpowszechniane i którego kopiami wolno się dzielić, jednak korzystanie z jego pełnej funkcjonalności wymaga wniesienia określonych opłat po pewnym okresie użytkowania lub zakupu licencji        </h5>
-                    <hr>
-                    <p class="card-text">
-                        <span class="test-ready__oleg">Shareware</span>
-                    </p>
-                </div>
-            </div>
-        </div>
-
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        rodzaj licencji na programy komputerowe polegający na tym, że można go używać przez z góry ustalony czas (od 7 do 90 dni). Czasami zamiast ograniczenia na liczbę dni jest ograniczenie na liczbę uruchomień programu.
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">Trial</span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        rodzaj licencji oprogramowania wywodzący się od Freeware i Shareware. Używany przez autorów, którzy udostępniają swoje programy za darmo: w zamian za to oczekują, że użytkownik prześle im kartkę pocztową (najczęściej z miejscowości, w której mieszka).
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">Postcardware</span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                         jest oprogramowaniem rozpowszechnianym za darmo, którego producent otrzymuje wynagrodzenie za wyświetlanie reklam zlecanych przez sponsorów.
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">Adware</span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        w najwęższym znaczeniu twórczość, z której można korzystać bez ograniczeń wynikających z uprawnień, które mają posiadacze autorskich praw majątkowych, gdyż prawa te wygasły lub twórczość ta nigdy nie była lub nie jest przedmiotem prawa autorskiego.
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">Domena publiczna</span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-    <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        licencja wolnego i otwartego oprogramowania
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">GNU General Public License (GPL) </span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-
-
-        <div class="col">
-            <div class="card mr" style="width: 18rem;">
-                <div class="card-body">
-                    <h5 class="card-title">
-                        program licencyjny Microsoft, umożliwiający instytucjom komercyjnym i organizacjom nabywanie na korzystnych warunkach grupowych licencji oprogramowania Microsoftu
-                    </h5>
-                        <p class="card-text">
-                        <span class="test-ready__oleg">MOLP (Microsoft Open License Program) </span>
-                    </p>
-            </div>
-        </div>
-    </div>
-
-
-
-
-
-
-
-
         <div class="col">
             <div>
                 <span class="text-purple">Тетради</span><br />
                 <img class="nizal" src="images/conversiontable16to2.png" alt="">
             </div>
         </div>
-
-
-
-        <div class="col">
-            <div>
-                <span class="text-purple">ПРОТОКОЛИ</span><br />
-                <img class="nizal-big" src="images/UVXMr9RSVys.jpg" alt="">
-            </div>
-        </div>
-
-
-
-    </div>
-</div>
-
-<script src="js/jquery-3.4.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
-</body>
-</html>
