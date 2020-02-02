@@ -1,15 +1,3 @@
-6. Operator trojargumentowy '?' zwraca wartość w zależności od warunku. Przykład użycia:
-    int a=3<5?2:1; //zmienna a przyjmuje wartość 2 bo warunek 3 < 5 jest prawdziwy
-    cout << (a%2==1?"liczba jest nieparzysta":"liczba jest parzysta");
-7. funkcje matematyczne:
-   floor() - funkcja wzór zaokrągla liczby zawsze w dół gdy w liczbie występuje część ułamkowa.
-   ceil() - funkcje ceil zaokrągła liczby zawsze w górę gdy w liczbę występuje część ułamkowa.
-   round() - naturalne zaokrąglenie liczby. Як в математиці.
-   abs() - zwraca wartość bezwzględną liczby, przekazany jako argument funkcji.
-   sqrt() - funkcja oblicza pierwiastek stopnia drugiego. Ppierwszym i jednym argumentem tej funkcji jest liczba z której chcemy policzyć pierwiastek.
-   pow() - podnoszenie liczby do dowolnej potęgi funkcja ta przyjmuje dwa argumenty i wracał wynik potęgowania. 
-          Pierwszym argumentem jest liczba którą chcemy potęgować drugim natomiast potęga do których chcemy wybraną liczbę w podnieść.
-8. M_PI - stała matematyczna = 3.14159
 9. Aby wygenerować liczbę z zakresu:
       - naturalną <0,a>
         x = rand()%(a+1)
